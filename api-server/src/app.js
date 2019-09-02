@@ -29,7 +29,7 @@ module.exports = {
   start: (port) => {
     app.listen(port, () => {
       console.log('App is listen on ', port);
-    })
+    });
   },
   server: app,
-}
+};

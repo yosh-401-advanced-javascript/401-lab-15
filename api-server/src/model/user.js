@@ -16,7 +16,7 @@ userSchema.pre('save', async function () {
   }
 })
 
-// authenticate user => Basic
+
 userSchema.statics.authenticateBasic = function (auth) {
   let query = { username: auth.username };
   return this.findOne(query)
