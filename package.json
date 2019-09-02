@@ -37,5 +37,8 @@
   "directories": {
     "doc": "docs"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
 }

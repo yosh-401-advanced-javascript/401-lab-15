@@ -5,12 +5,12 @@
 ### Author: Josh Nebe
 
 ### Links and Resources
-* [submission PR](https://github.com/yosh-401-advanced-javascript/lab-00/pull/2)
-* [travis](https://travis-ci.com/yosh-401-advanced-javascript/lab-00.svg?branch=master)
-* [front-end](https://yosh-lab-00.herokuapp.com/) (when applicable)
+* [submission PR](https://github.com/yosh-401-advanced-javascript/401-lab-15/pull/2)
+* [travis](https://travis-ci.com/yosh-401-advanced-javascript/401-lab-15.svg?branch=master)
+* [front-end](https://fathomless-shelf-56079.herokuapp.com/) (when applicable)
 
 #### Documentation
-* [jsdoc](https://yosh-lab-00.herokuapp.com/docs) (Server assignments)
+* [jsdoc](https://fathomless-shelf-56079.herokuapp.com/docs) (Server assignments)
 
 ### Modules
 #### `src`
@@ -40,4 +40,4 @@
 * Lint tests are run with 'npm list'
 
 #### UML
-Link to an image of the UML for your application and response to events
+[UML](./assets/uml.png)
